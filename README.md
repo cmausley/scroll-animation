@@ -16,7 +16,7 @@ This small project creates a webpage where, when scrolled through, continues to 
 
 ## Final Product
 
-![video sample of project]()
+![video sample of project](./attachments/Scroll-Animation-and-12-more-pag.gif)
 
 ## Technologies
 
